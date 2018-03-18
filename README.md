@@ -1,1 +1,3 @@
-# exercicios_de_estrutura_de_dados
+# exercicios de estrutura de dados
+
+Conversão binário decimal
